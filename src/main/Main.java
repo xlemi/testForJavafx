@@ -28,6 +28,7 @@ public class Main extends Application {
 
 	@Override
 	public void start(Stage primaryStage) {
+	//git 실험용 변경
 		this.primaryStage = primaryStage;
 		String file = new String("/view/Person_view.fxml");
 		
