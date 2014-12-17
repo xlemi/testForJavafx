@@ -16,15 +16,14 @@ public class Main extends Application {
 	ObservableList<Person> listPerson = FXCollections.observableArrayList();
 	
 	public Main(){
-		listPerson.add(new Person("xlemi01","space01"));
-		listPerson.add(new Person("xlemi02","space02"));
-		listPerson.add(new Person("xlemi03","space03"));
-		listPerson.add(new Person("xlemi04","space04"));
-		listPerson.add(new Person("xlemi05","space05"));
-		listPerson.add(new Person("xlemi06","space06"));
-		listPerson.add(new Person("xlemi07","space07"));
-		listPerson.add(new Person("xlemi08","space08"));
-		listPerson.add(new Person("xlemi09","space09"));
+		listPerson.add(new Person("anne01","space01"));
+		listPerson.add(new Person("anne02","space02"));
+		listPerson.add(new Person("anne03","space03"));
+		listPerson.add(new Person("anne04","space04"));
+		listPerson.add(new Person("anne05","space05"));
+		listPerson.add(new Person("anne06","space06"));
+		listPerson.add(new Person("anne07","space07"));
+		listPerson.add(new Person("anne08","space08"));
 	}
 
 	@Override
