@@ -24,6 +24,8 @@ public class Main extends Application {
 		listPerson.add(new Person("anne06","space06"));
 		listPerson.add(new Person("anne07","space07"));
 		listPerson.add(new Person("anne08","space08"));
+		listPerson.add(new Person("anne09","space09"));
+		listPerson.add(new Person("anne10","space10"));
 	}
 
 	@Override
